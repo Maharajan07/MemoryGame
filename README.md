@@ -26,9 +26,13 @@ The objective of the game is to match pairs of identical cards. Flip the cards a
 
 ```
 memory-card-game/
+
 ├── index.html         # Main HTML structure
+
 ├── style.css          # Styles for the game
+
 ├── script.js          # Game logic and interactions
+
 └── images/            # Card and icon images
 ```
 
