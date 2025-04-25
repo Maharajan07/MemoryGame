@@ -50,5 +50,5 @@ memory-card-game/
 
 ## 🙌 Credits
 
-- Developed by [Maharajan]  
+- Developed by Maharajan
 - Card icons and images used are credited to respective sources
