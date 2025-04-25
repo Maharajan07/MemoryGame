@@ -52,8 +52,3 @@ memory-card-game/
 
 - Developed by [Maharajan]  
 - Card icons and images used are credited to respective sources
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-```
