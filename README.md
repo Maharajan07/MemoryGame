@@ -32,19 +32,15 @@ memory-card-game/
 └── images/            # Card and icon images
 ```
 
-## 🖼️ Screenshots
-
-> *(Add screenshots or a GIF showing the gameplay here)*
-
 ## 📦 How to Run Locally
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/memory-card-game.git
+   git clone https://github.com/Maharajan07/MemoryGame.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd memory-card-game
+   cd MemoryGame
    ```
 3. Open `index.html` with any modern web browser.
 
